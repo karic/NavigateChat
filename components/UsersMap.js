@@ -16,9 +16,7 @@ const UsersMaps = props => {
         })
 
 
-    //     for (var i=0; i<props.friendsLocation.length; i++){
-    //     friendsLocationMarker[i] = <MapView.Marker coordinate={props.friendsLocation[i].coords}/>;
-    // }
+
 }
 
 
